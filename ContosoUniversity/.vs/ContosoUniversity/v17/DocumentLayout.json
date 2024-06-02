@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visualStodio_projects\\ContosoUniversity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.206\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoUniversity1/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\views\\students\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\students\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|e:\\visualstodio_projects\\contosouniversity\\contosouniversity\\migrations\\20240516221701_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC4F744-47D9-413E-8A8F-FB0DFCA1AEF1}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\migrations\\20240516221701_migr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ViewState": "AQIAAH4BAACA+P/////xv44BAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-02T05:22:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:59:09.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Employee.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Models\\Employee.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:35:45.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:44:02.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\CoursesController.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAEYAAAAAmZmZmVk1wGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:56:39.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Employee\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Employee\\Login.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Employee\\Login.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Employee\\Login.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T00:53:36.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Employee\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Employee\\Register.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Employee\\Register.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Employee\\Register.cshtml",
+              "ViewState": "AQIAABoAAABAMzMzM7MiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T00:47:20.12Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\appsettings.json",
+              "RelativeDocumentMoniker": "ContosoUniversity\\appsettings.json",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\appsettings.json",
+              "RelativeToolTip": "ContosoUniversity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T22:46:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Index.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:36:08.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAABsPSUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T01:20:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACkAAAAAKTMzMzPzvzMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:11:06.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:51:47.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Program.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Program.cs",
+              "RelativeToolTip": "ContosoUniversity\\Program.cs",
+              "ViewState": "AQIAABYAAABILTMzM7MSwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:47:16.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T21:50:42.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\SchoolContext.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:32:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Details.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAABIPRcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:53:56.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240516221701_migr1.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Migrations\\20240516221701_migr1.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Migrations\\20240516221701_migr1.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Migrations\\20240516221701_migr1.cs",
+              "RelativeToolTip": "ContosoUniversity\\Migrations\\20240516221701_migr1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:17:02.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\DbInitializer.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:05:46.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Student.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Student.cs",
+              "ViewState": "AQIAAA8AAABQ/////18wwBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:05:38.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Enrollment.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Models\\Enrollment.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Enrollment.cs",
+              "ViewState": "AQIAAAQAAADAZWZmZmYkwAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:11:34.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:02:53.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Course.cs",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Models\\Course.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:07:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:58:16.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Insert.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Students\\Insert.cshtml",
+              "ToolTip": "E:\\visualStodio_projects\\ContosoUniversity\\ContosoUniversity\\Views\\Students\\Insert.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Students\\Insert.cshtml",
+              "ViewState": "AQIAAAgAAADgZGZmZuYcwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:34:51.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoUniversity1/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T00:35:52.238Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

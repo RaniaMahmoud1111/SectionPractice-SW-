@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Student>
+
+@{
+	ViewData["Title"] = "Students";
+}
+<div class="m-2">
+<a class="btn btn-primary" asp-action="Insert" asp-controller="Students">Add New Student</a>
+</div>
+<div class="overflow-auto" style="height:570px">
+
+@foreach(var s in Model){
+<div class="card bg-warning m-2" >
+	<div class="card-body m-2">
+		<h3>@Html.DisplayNameFor(s => s.ID): @s.ID</h3>
+		<h2>@Html.DisplayNameFor(s=>s.FirstMidName):@s.FirstMidName</h2>
+		<h3>@Html.DisplayNameFor(s=>s.LastName): @s.LastName</h3>
+		<h4>@Html.DisplayNameFor(s=>s.EnrollmentDate):@s.EnrollmentDate</h4>
+				<a class="btn btn-success" asp-controller="Students" asp-action="Edit" asp-route-id="@s.ID">Edit</a>
+				<a class="btn btn-primary" asp-controller="Students" asp-action="Details" asp-route-id="@s.ID">Details</a>
+				<a class="btn btn-danger" asp-controller="Students" asp-action="Delete" asp-route-id="@s.ID">Delete</a>
+
+	</div>
+    </div>
+}
+
+</div>

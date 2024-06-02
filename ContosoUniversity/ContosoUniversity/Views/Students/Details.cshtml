@@ -1,0 +1,51 @@
+﻿@model Student;
+@{
+	ViewData["Title"] = "Student’s Deatils";
+}
+<h1>Student’s Deatils</h1>
+<div class="m-2 bg-light">
+	<p><strong>ID:</strong> @Model.ID</p>
+	<p><strong>First Mid Name:</strong> @Model.FirstMidName</p>
+	<p><strong>Last Name:</strong> @Model.LastName</p>
+	<p>
+		<strong>Date of Enrollment:</strong>
+		@Model.EnrollmentDate.ToShortDateString()
+	</p>
+	<p><strong>@Html.DisplayNameFor(model => model.Enrollments):</strong></p>
+</div>
+<div class="m-2">
+	<table class="table table-bordered table-striped">
+		<thead>
+			<tr>
+				<th>
+					EnrollmentID
+				</th>
+				<th>
+					Course Title
+				</th>
+				<th>
+					Grade
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+@foreach(var e in Model.Enrollments)
+ {
+ <tr>
+ <td>
+@Html.DisplayFor(modelItem => e.EnrollmentID)
+ </td>
+<td>
+ @Html.DisplayFor(modelItem => e.Course.Title)
+ </td>
+<td>
+@Html.DisplayFor(modelItem => e.Grade)
+ </td>
+ </tr>
+ }
+ </tbody>
+ </table>
+</div>
+<div class="m-2">
+ <a class="btn btn-primary" asp-action="Index" asp-controller="Students">Back to list</a>
+</div>

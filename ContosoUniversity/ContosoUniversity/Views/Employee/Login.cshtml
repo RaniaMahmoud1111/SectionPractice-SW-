@@ -1,0 +1,25 @@
+﻿@model Employee
+@{
+	ViewData["Title"] = "Login";
+}
+<form class="m-2" asp-action="Login" asp-controller="Employee" method="post">
+	<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+	@if (ViewBag.error != null)
+	{
+		<span class="text-danger">@ViewBag.error</span>
+	}
+	<div class="form-group m-2">
+		<label asp-for="Email" class="control-label"></label>
+		<input asp-for="Email" class="form-control" />
+		<span asp-validation-for="Email" class="text-danger"></span>
+	</div>
+	<div class="form-group m-2">
+		<label asp-for="Password" class="control-label"></label>
+		<input asp-for="Password" class="form-control" />
+		<span asp-validation-for="Password" class="text-danger"></span>
+	</div>
+	<button type="submit" class="btn btn-primary">Login</button>
+</form>
+<div class="m-2">
+	<a asp-action="Register">Does Not have an Email?</a>
+</div>
